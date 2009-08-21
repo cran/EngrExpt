@@ -1,6 +1,6 @@
 Package: EngrExpt
-Version: 0.1-6
-Date: 2009-05-04
+Version: 0.1-8
+Date: 2009-08-21
 Title: Data sets from "Introductory Statistics for Engineering
         Experimentation"
 Maintainer: Douglas Bates <bates@stat.wisc.edu>
@@ -13,8 +13,6 @@ Depends: R (>= 2.9.0), lattice
 LazyLoad: yes
 LazyData: yes
 License: GPL (>= 2)
+Packaged: 2012-10-29 08:57:01 UTC; ripley
 Repository: CRAN
-Repository/R-Forge/Project: engrexpt
-Repository/R-Forge/Revision: 26
-Date/Publication: 2009-05-06 17:38:20
-Packaged: 2009-05-06 02:54:30 UTC; rforge
+Date/Publication: 2012-10-29 08:57:01

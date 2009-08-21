@@ -16,6 +16,11 @@
     \item{\code{caliperb}}{measurement with caliper type B}
   }
 }
+\details{
+  This is an experiment to study the relationship between the
+  measurements taken by the two calipers on various parts.  The diameter
+  of each part is not of interest.
+}
 \references{
   Peter R. Nelson, Marie Coffin and Karen A. F. Copeland (2003),
   \emph{Introductory Statistics for Engineering Experimentation},

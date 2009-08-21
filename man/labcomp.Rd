@@ -11,10 +11,22 @@
 \format{
   A data frame with 28 observations on the following 3 variables.
   \describe{
-    \item{\code{lab}}{a factor with levels \code{A} \code{B} \code{C} \code{D}}
+    \item{\code{lab}}{a factor with levels \code{A}, \code{B}, \code{C}
+      and \code{D}}
     \item{\code{pt1}}{a numeric vector}
-    \item{\code{pt5}}{a factor with levels \code{.} \code{151.8} \code{152.9} \code{153.3} \code{153.5} \code{153.7} \code{154.3} \code{154.7} \code{161} \code{162} \code{163} \code{164} \code{165}}
+    \item{\code{pt5}}{a numeric vector}
   }
+}
+\details{
+  This study was an "inter-lab" study to investigate measurements taken
+  on a product at various facilities.  In particular, this company has a
+  research lab, a pilot line lab, and multiple labs at plants.  When
+  characterizing products and especially in trouble shooting performance
+  issues samples may be tested at multiple facilities and it is important
+  to know if there is an impact of location on the resulting measurements.
+  For this study material was sent to each lab and tested 7 times by two
+  testing methods, a 1-point method at all labs and a 5-point method at
+  two of the labs.
 }
 \references{
   Peter R. Nelson, Marie Coffin and Karen A. F. Copeland (2003),

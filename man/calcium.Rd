@@ -17,6 +17,10 @@
       taking the multi-vitamin containing calcium}
   }
 }
+\details{
+    This was a small pilot study to test the effectiveness of the
+    multi-vitamin with respect to calcium absorption.
+}
 \references{
   Peter R. Nelson, Marie Coffin and Karen A. F. Copeland (2003),
   \emph{Introductory Statistics for Engineering Experimentation},
